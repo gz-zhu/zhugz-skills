@@ -49,19 +49,38 @@
 
 ### 🎨 設計思維
 
-| Skill            | 用途                                     |
-| ---------------- | ---------------------------------------- |
-| `design-partner` | 設計師專用思維夥伴，從模糊想法到清晰提案 |
+| Skill              | 用途                                                   |
+| ------------------ | ------------------------------------------------------ |
+| `design-partner`   | 設計師專用思維夥伴，從模糊想法到清晰提案，不限設計類型 |
+| `client-brief`     | 第一次客戶會談引導，把模糊需求變成清晰 Brief           |
+| `proposal-writer`  | 把設計工作轉化成客戶看得懂、願意簽字的提案文件         |
+| `price-calculator` | 建立有邏輯的報價結構，不再憑感覺開價                   |
 
 **適合什麼時候用：**
 
-- 腦袋有感覺但說不出方向
-- 需要有人直接告訴你這個設計哪裡不對
-- 客戶一直改稿，不知道問題出在哪
-- 要跟客戶或非設計師解釋「為什麼這樣設計」
-- 需要寫提案、簡報、設計說明
+`design-partner`
 
-**涵蓋範疇：** 品牌／視覺設計・UI／產品設計・空間／展覽設計
+- 有感覺但說不出方向
+- 需要批判性反饋
+- 跟客戶或非設計師解釋設計理由
+
+`client-brief`
+
+- 客戶說「隨便，好看就好」
+- 第一次接案，不知道要問什麼
+- 想在開始設計前先把需求釐清
+
+`proposal-writer`
+
+- 要寫設計提案或簡報
+- 客戶看不懂你的設計邏輯
+- 需要中英雙語交付文件
+
+`price-calculator`
+
+- 不確定這個案子該收多少
+- 想建立可以解釋給客戶聽的報價邏輯
+- 客戶說「太貴了」，不知道怎麼回應
 
 ---
 
@@ -69,23 +88,17 @@
 
 _（即將加入）_
 
-幫助起草文章、整理觀點、讓文字更有力量。
-
 ---
 
 ### 💻 技術與開發
 
 _（即將加入）_
 
-給完全不懂程式的人用的技術輔助，幫你讀懂錯誤訊息、理解概念、跟工程師溝通。
-
 ---
 
 ### 🗓 生活與規劃
 
 _（即將加入）_
-
-把模糊的「我想做某件事」變成具體可執行的計畫。
 
 ---
 
@@ -115,6 +128,9 @@ _（即將加入）_
 | ------------------ | -------------------------------------------------------------------------------------- |
 | `thinking-partner` | `https://raw.githubusercontent.com/gz-zhu/zhugz-skills/main/thinking-partner/SKILL.md` |
 | `design-partner`   | `https://raw.githubusercontent.com/gz-zhu/zhugz-skills/main/design-partner/SKILL.md`   |
+| `client-brief`     | `https://raw.githubusercontent.com/gz-zhu/zhugz-skills/main/client-brief/SKILL.md`     |
+| `proposal-writer`  | `https://raw.githubusercontent.com/gz-zhu/zhugz-skills/main/proposal-writer/SKILL.md`  |
+| `price-calculator` | `https://raw.githubusercontent.com/gz-zhu/zhugz-skills/main/price-calculator/SKILL.md` |
 
 ---
 
